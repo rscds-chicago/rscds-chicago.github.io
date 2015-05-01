@@ -1,0 +1,4 @@
+The buttons are the workshop logo without the lettering
+at a size of 100 * 40 pixels (flatbutton.gif).
+Buttonize is an effect option under Paint Shop Pro
+with Height 5, Width 11, Opacity 56, and Transparent edges.
